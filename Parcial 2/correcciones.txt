@@ -1,0 +1,10 @@
+Práctica:
+Polimorfismo:
+	El método abstracto de la clase es el cálculo del porcentaje para calcular el importe de venta.
+	En este caso se debería redefinir el método porcentaje, no cálculo del importe, ya que el porcentaje varía
+	de acuerdo a cada clase heredada. El cálculo del importe se puede hacer sin que esté definida el método
+	porcentaje.
+Teoría:
+1) Las clases que implementen métodos tiene la obligación de redefinir los métodos, en cambio los heredados, pueden ser redefinidos.
+2) El orden de ejecución de los métodos.
+3) Dar la funcionalidad de cada uno de los bloques indicados.
